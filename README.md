@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taha</h1>
-<h3 align="center">A programmer from Turkey</h3>
+![giphy](https://media.giphy.com/media/8OPvIhcHkUUCGgkEzW/giphy.gif)
 
 - 🌱 I’m currently learning **Flutter**
 
