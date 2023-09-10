@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taha</h1>
-<h3 align="center">A hustler programmer from Turkey</h3>
+<h3 align="center">A programmer from Turkey</h3>
 
 - 🌱 I’m currently learning **Flutter**
 
